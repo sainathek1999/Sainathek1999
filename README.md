@@ -92,16 +92,13 @@ Building **scalable, high-performance systems** with clean architecture and prod
 > Make sure your LeetCode profile is set to **public** — leetcode.com → Settings → Privacy.
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sainathek1999&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sainathek1999&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sainathek1999&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## Top Contributions
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Sainathek1999&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/>
-
-</div>
-
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sainathek1999&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## Philosophy
 
