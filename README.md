@@ -74,7 +74,7 @@ Building **scalable, high-performance systems** with clean architecture and prod
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sainathek1999&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sainathek1999&theme=tokyonight&hide_border=true" height="150"/>
+
 
 </div>
 
