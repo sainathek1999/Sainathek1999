@@ -6,7 +6,7 @@
 <code>@Sainathek1999</code> &nbsp;·&nbsp; Tallahassee, FL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0C447C?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Erukulla-sainath)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sainathek1999)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sainathek)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Sainatherukulla99@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Sainathek1999&style=flat-square&color=0C447C&label=profile+views)](https://github.com/Sainathek1999)
 
