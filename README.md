@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="80" src="https://avatars.githubusercontent.com/Sainathek1999" style="border-radius:16px" alt="Sainath Erukulla"/>
+<img width="80" style="border-radius:16px" alt="Sainath Erukulla"/>
 
 # Sainath Erukulla
 
