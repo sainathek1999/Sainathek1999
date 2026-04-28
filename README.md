@@ -82,7 +82,7 @@ Building **scalable, high-performance systems** with clean architecture and prod
 
 ## LeetCode
 
-<div align="fill">
+<div align="center">
 
 <img src="https://leetcard.jacoblin.cool/Sainathek?theme=dark&font=DM%20Mono&ext=heatmap" alt="LeetCode Stats"/>
 
