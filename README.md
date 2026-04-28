@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="80" style="border-radius:16px" alt="Sainath Erukulla"/>
 
 # Sainath Erukulla
 
