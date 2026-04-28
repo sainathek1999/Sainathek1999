@@ -83,13 +83,13 @@ Building **scalable, high-performance systems** with clean architecture and prod
 
 ## LeetCode
 
-<div align="center">
+<div align="fill">
 
 <img src="https://leetcard.jacoblin.cool/Sainathek?theme=dark&font=DM%20Mono&ext=heatmap" alt="LeetCode Stats"/>
 
 </div>
 
-> Make sure your LeetCode profile is set to **public** — leetcode.com → Settings → Privacy.
+
 
 ---
 # 📊 GitHub Stats:
