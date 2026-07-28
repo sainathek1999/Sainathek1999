@@ -17,10 +17,4 @@
     "description": "",
     "tags": []
   },
-  {
-    "name": "TapTrack",
-    "repo": "Sainathek1999/taptrack",
-    "description": "Expense tracker triggered by Apple Pay with AI categorization",
-    "tags": ["FastAPI", "React", "GPT"]
-  }
 ]
