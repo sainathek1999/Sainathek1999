@@ -47,8 +47,8 @@
 
 <a href="https://leetcode.com/u/Sainathek/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Sainathek?ext=heatmap&font=DM%20Mono&border=0&radius=10&colors=0A101F,0C1426,F8FAFC,94A3B8,22D3EE,A78BFA,10B981,7C3AED" />
-  <img src="https://leetcard.jacoblin.cool/Sainathek?ext=heatmap&font=DM%20Mono&border=0&radius=10&colors=FFFFFF,F8FAFC,0F172A,475569,0891B2,7C3AED,059669,7C3AED" alt="LeetCode stats and heatmap" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Sainathek?ext=heatmap&font=DM%20Mono&border=0&radius=0&colors=0D1117,0D1117,F8FAFC,94A3B8,22D3EE,A78BFA,10B981,7C3AED" />
+  <img src="https://leetcard.jacoblin.cool/Sainathek?ext=heatmap&font=DM%20Mono&border=0&radius=0&colors=FFFFFF,FFFFFF,0F172A,475569,0891B2,7C3AED,059669,7C3AED" alt="LeetCode stats and heatmap" />
 </picture>
 </a>
 
