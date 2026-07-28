@@ -1,0 +1,36 @@
+name: Generate LeetCode Card
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/leetcode.yml"
+      - ".github/scripts/fetch_leetcode.py"
+      - ".github/scripts/generate_leetcode.py"
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch LeetCode data
+        env:
+          LEETCODE_USER: Sainathek
+        run: python3 .github/scripts/fetch_leetcode.py
+
+      - name: Render cards
+        run: python3 .github/scripts/generate_leetcode.py leetcode.json profile
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/leetcode-dark.svg profile/leetcode-light.svg
+          git commit -m "Update LeetCode card" || exit 0
+          git push
