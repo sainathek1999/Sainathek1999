@@ -15,9 +15,7 @@
 <img width="49%" src="https://github-readme-stats-tau-topaz-1avovm9f1m.vercel.app/api/top-langs/?username=Sainathek1999&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
 
-<!-- ═══════════════ CONTRIBUTION SNAKE ═══════════════
-     Uncomment ONLY after the Action runs green and the output branch exists. -->
-<!--
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -28,7 +26,6 @@
     src="https://raw.githubusercontent.com/Sainathek1999/Sainathek1999/output/github-snake.svg" />
 </picture>
 </div>
--->
 
 <!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
 <div align="center">
